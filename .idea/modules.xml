@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kson.iml" filepath="$PROJECT_DIR$/.idea/modules/kson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kson_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kson_main.iml" group="kson" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kson_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kson_test.iml" group="kson" />
+    </modules>
+  </component>
+</project>

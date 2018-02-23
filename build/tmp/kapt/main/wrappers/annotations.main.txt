@@ -1,0 +1,20 @@
+d JsonParserKt
+a org.jetbrains.annotations.NotNull 0
+f 0 JsonParserKt space
+m 0 JsonParserKt getSpace
+f 0 JsonParserKt spaces
+m 0 JsonParserKt getSpaces
+f 0 JsonParserKt jtrue
+m 0 JsonParserKt getJtrue
+f 0 JsonParserKt jfalse
+m 0 JsonParserKt getJfalse
+f 0 JsonParserKt jnull
+m 0 JsonParserKt getJnull
+f 0 JsonParserKt jvalue
+m 0 JsonParserKt getJvalue
+m 0 JsonParserKt one
+d JsonParserKt$one$1
+m 0 JsonParserKt matchSeq
+d JsonParserKt$matchSeq$2$1
+m 0 JsonParserKt$matchSeq$2$1 invoke
+m 0 JsonParserKt surroundedBy
